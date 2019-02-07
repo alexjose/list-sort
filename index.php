@@ -1,6 +1,6 @@
 <?php
 
-$lists = [
+$list = [
     ['id' => 1, 'label' => 'Item 1', 'parent_id' => 0, 'count' => 60],
     ['id' => 2, 'label' => 'Item 2', 'parent_id' => 0, 'count' => 15],
     ['id' => 3, 'label' => 'Item 3', 'parent_id' => 2, 'count' => 10],
